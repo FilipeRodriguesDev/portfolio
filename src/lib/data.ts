@@ -5,7 +5,7 @@ export const ME = {
   role: "Analista de Dados / BI",
   objective: "Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado em Business Intelligence, Análise de Dados e Desenvolvimento Web. Experiência com SQL, Power BI, React e TypeScript.",
   email: "felpesrodrigues@outlook.com",
-  github: "https://github.com/Felpsxxl",
+  github: "https://github.com/FilipeRodriguesDev",
   linkedin: "https://www.linkedin.com/in/filipe-rodrigues-661553244",
   whatsapp: "https://wa.me/5511970992152",
   about:
@@ -66,7 +66,7 @@ export const PROJECTS: Project[] = [
     featured: true,
     date: "Aplicação Comercial",
     liveUrl: "https://www.firax.com.br/",
-    repoUrl: "https://github.com/Felpsxxl/Site-firax",
+    repoUrl: "https://github.com/FilipeRodriguesDev/Site-firax",
   },
   {
     id: "proj-porsche-web",
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
     tags: ["JavaScript (ES6+)", "Chart.js", "HTML5/CSS3"],
     featured: true,
     date: "Dashboard Interativo",
-    repoUrl: "https://github.com/Felpsxxl/porsche-smart-analytics",
+    repoUrl: "https://github.com/FilipeRodriguesDev/porsche-smart-analytics",
   },
   {
     id: "proj-2",
