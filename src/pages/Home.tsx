@@ -64,7 +64,7 @@ export function Home() {
           <div className="absolute inset-0 bg-white/5" />
           <img 
             src="/profile.jpeg" 
-            alt="Filipe Moura" 
+            alt="Filipe Rodrigues Moura" 
             className="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-500"
             referrerPolicy="no-referrer"
           />
